@@ -92,8 +92,9 @@ Java Spring Boot library system built as a team final project.
 
 <div align="center">
 
-![Ra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimdara&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhimdara&layout=compact&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/nhimdara?style=for-the-badge&logo=github&color=0A66C2)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nhimdara&query=$.public_repos&label=Repos&style=for-the-badge&logo=github&color=8957E5)
+![Profile Views](https://komarev.com/ghpvc/?username=nhimdara&style=for-the-badge&color=00D4FF)
 
 </div>
 
