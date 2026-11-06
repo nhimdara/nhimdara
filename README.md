@@ -1,13 +1,14 @@
- <div align="center">
+<div align="center">
 
-# Hi there, I'm Nhim Dara 👋
+# Hi, I'm Nhim Dara 👋
 
-### IT Engineering Student | Full-Stack Developer
+**Full-Stack Developer · Computer Science Student @ RUPP, Phnom Penh 🇰🇭**
 
-*Building useful things with code and continuously learning new technologies.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio69.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nhimdara)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -15,85 +16,97 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT Engineering student at **Royal University of Phnom Penh (RUPP)**, passionate about software development and building modern applications.
-
-- 🎓 Studying Information Technology Engineering at RUPP.
-- 💻 Interested in Frontend, Backend, and Full-Stack Development.
-- 🚀 Currently gaining practical experience in Backend Development.
-- 🌱 Continuously learning new technologies and improving my programming skills.
-- 🤝 Enjoy working with teams and building real-world projects.
-- 🎯 Goal: Become a professional Software Engineer.
+- 🎓 Computer Science student at the **Royal University of Phnom Penh (RUPP)**
+- 🛠️ I build full-stack web applications, from database design to deployed UI
+- 📚 Studying databases, data structures, networking, web development, and OOAD
+- 💼 Working on both academic and freelance projects
+- 🌱 Currently exploring Spring Boot, Kotlin, and mobile development
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,spring" />
-</p>
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea,postman" />
-</p>
+**Database & Languages**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
+**Deployment**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some areas I'm currently exploring and building:
+### 🎓 LearnFlow: E-Learning Platform
+Full-stack e-learning platform with an admin panel and student portal.
+- Role-based routing, JWT cookie auth, exams, and a certificate system
+- Teacher dashboard for managing lesson videos
+- AI chat powered by the Groq API
+- **Stack:** React · Node.js/Express · MySQL · Render · Railway
 
-- 📚 **AI Book Library** – A library management system with AI-powered recommendations and chat.
-- 🏠 **RoomFinder** – A student accommodation platform for finding rooms near universities.
-- 🎓 **E-Learning Platform** – A web-based learning platform for students and teachers.
-- 🌐 **Personal Portfolio** – My personal website showcasing my skills and development journey.
+### 🏨 StayEasy: Hotel Booking Platform
+Hotel booking app with QR payment flow and a loyalty points system.
+- **Stack:** Vue.js · Laravel (Sanctum) · Railway · Vercel
 
-Check out my repositories for more projects!
+### 🧾 RUPP Payment System
+Team project for school payments across web and mobile.
+- Student Android app, admin/finance web portal, and REST backend
+- **Stack:** Spring Boot · PostgreSQL · Kotlin (Jetpack Compose) · React
+
+### 🎓 Student Management System
+Student records with certificate generation for RUPP.
+- **Stack:** React · MySQL
+
+### 🍽️ Culinary Admin
+Restaurant and table management dashboard.
+- **Stack:** Vue.js · Axios
+
+### 📚 Library Management System
+Java Spring Boot library system built as a team final project.
+- **Stack:** Java · Spring Boot
+
+> 🔗 See the pinned repositories above for source code and live demos.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nhimdara&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhimdara&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="80%" src="https://streak-stats.demolab.com?user=nhimdara&theme=tokyonight&hide_border=true" />
+![Ra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimdara&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhimdara&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://github.com/nhimdara">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://my-portfolio69.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <div align="center">
 
-### 💡 "Great things are built one line of code at a time."
-
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for stopping by!*
 
 </div>
